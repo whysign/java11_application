@@ -1,8 +1,8 @@
 package sec2;
 
 public class Student {  
-	private String name;
-	private	int grade;
+	private String name; //이름
+	private	int grade; 
 	private int money;
 	
 	public Student(String name) {
