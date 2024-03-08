@@ -12,7 +12,7 @@ class Person {
 		this.name = name;
 		this.point = point;
 		this.weight = weight;
-	}
+	} 
 	public String getName() {
 		return name;
 	}
